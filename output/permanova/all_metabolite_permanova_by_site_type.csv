@@ -1,0 +1,6 @@
+"","Df","SumOfSqs","R2","F","Pr(>F)","description"
+"sample_type",2,4.02918570850959,0.155322910119673,10.5738379857571,0.001,"All microbe samples"
+"site_name",4,2.63226918285677,0.101472540428245,3.45394701163132,0.001,"All microbe samples"
+"sample_type:site_name",7,2.322420441254,0.0895280405405838,1.74135841101068,0.001,"All microbe samples"
+"Residual",89,16.9568291352858,0.653676508911497,NA,NA,"All microbe samples"
+"Total",102,25.9407044679061,1,NA,NA,"All microbe samples"

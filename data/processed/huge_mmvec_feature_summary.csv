@@ -1,0 +1,277 @@
+kingdom,superclass,class,subclass,N,lib_match
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",377,Yes
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,323,Yes
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,183,Yes
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,110,Yes
+Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,102,Yes
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,98,No
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,94,Yes
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,82,No
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,76,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Estrane steroids,68,Yes
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,54,Yes
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,51,Yes
+Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,50,No
+Organic compounds,Phenylpropanoids and polyketides,Coumarins and derivatives,unclassified,50,Yes
+Organic compounds,Organic acids and derivatives,Organic phosphonic acids and derivatives,Organic phosphonic acids,50,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,49,Yes
+Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleosides,unclassified,42,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,40,Yes
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,39,Yes
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,39,Yes
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,38,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Oxosteroids,34,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,unclassified,33,No
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,31,Yes
+Organic compounds,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,31,No
+Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,31,Yes
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Amines,30,No
+Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Monoradylglycerols,30,Yes
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Triterpenoids,30,No
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,28,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,26,No
+Organic compounds,Phenylpropanoids and polyketides,Coumarins and derivatives,Hydroxycoumarins,26,No
+Organic compounds,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Hydroxycinnamic acids and derivatives,25,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",24,No
+Organic compounds,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,24,Yes
+Organic compounds,Organoheterocyclic compounds,Benzodioxoles,unclassified,24,No
+Organic compounds,Phenylpropanoids and polyketides,Macrolides and analogues,unclassified,23,Yes
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Styrenes,23,Yes
+Organic compounds,Organoheterocyclic compounds,Diazinanes,Piperazines,22,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Anilides,21,Yes
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,19,No
+Organic compounds,Organoheterocyclic compounds,Benzofurans,unclassified,18,Yes
+Organic compounds,Benzenoids,Phenanthrenes and derivatives,Hydrophenanthrenes,17,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid acids,17,No
+Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Glycosylglycerols,17,Yes
+Organic compounds,Organoheterocyclic compounds,Lactones,Gamma butyrolactones,17,No
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,16,Yes
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Nitrobenzenes,14,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,unclassified,13,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Diphenylmethanes,13,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleosides,Purine 2'-deoxyribonucleosides,12,Yes
+Organic compounds,Organoheterocyclic compounds,Tetrapyrroles and derivatives,Porphyrins,12,No
+Organic compounds,Organophosphorus compounds,Organophosphinic acids and derivatives,Phosphinic acid esters,11,No
+Organic compounds,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,11,No
+Organic compounds,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,11,Yes
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,10,Yes
+Organic compounds,Organoheterocyclic compounds,Oxazinanes,Morpholines,10,No
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Pregnane steroids,10,No
+Organic compounds,Organoheterocyclic compounds,Quinolines and derivatives,Quinolones and derivatives,10,No
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,9,Yes
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenethylamines,9,Yes
+Organic compounds,Hydrocarbons,Polycyclic hydrocarbons,unclassified,9,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,9,No
+Organic compounds,Organoheterocyclic compounds,Piperidines,unclassified,9,No
+Organic compounds,Organoheterocyclic compounds,Azoles,Tetrazoles,8,No
+Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Indoles,8,Yes
+Organic compounds,Organic acids and derivatives,Peptidomimetics,Hybrid peptides,8,No
+Organic compounds,Organoheterocyclic compounds,Azoles,Triazoles,8,No
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,8,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,N-phenylureas,7,No
+Organic compounds,"Organic 1,3-dipolar compounds","Allyl-type 1,3-dipolar organic compounds",Organic nitro compounds,7,No
+Organic compounds,Organoheterocyclic compounds,Naphthofurans,unclassified,7,Yes
+Organic compounds,Organic acids and derivatives,Keto acids and derivatives,Medium-chain keto acids and derivatives,7,Yes
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,Ethers,7,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenylmethylamines,7,No
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acids,7,No
+Organic compounds,Organoheterocyclic compounds,Triazines,Aminotriazines,7,No
+Organic compounds,Organoheterocyclic compounds,Isocoumarans,Isobenzofuranones,7,No
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,Ynols,7,Yes
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Biphenyls and derivatives,7,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenoxy compounds,7,No
+Organic compounds,Organoheterocyclic compounds,Azolidines,Imidazolidines,6,No
+Organic compounds,Organoheterocyclic compounds,Diazanaphthalenes,Benzodiazines,6,No
+Organic compounds,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,6,No
+Organic compounds,Organoheterocyclic compounds,Azoles,Imidazoles,6,No
+Organic compounds,Benzenoids,Phenol ethers,unclassified,6,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzylethers,6,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzenesulfonamides,6,Yes
+Organic compounds,Organic acids and derivatives,Organic phosphonic acids and derivatives,Bisphosphonates,6,Yes
+Organic compounds,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,5,No
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Retinoids,5,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzyloxycarbonyls,5,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Guanidines,5,No
+Organic compounds,Organoheterocyclic compounds,Tetrapyrroles and derivatives,Chlorins,5,Yes
+Organic compounds,Organoheterocyclic compounds,Diazines,Pyrazines,5,Yes
+Organic compounds,Organoheterocyclic compounds,Dihydrofurans,Furanones,5,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenylphosphines and derivatives,5,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,N-arylamides,5,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleosides,Purine 3'-deoxyribonucleosides,5,Yes
+Organic compounds,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid amides,4,No
+Organic compounds,"Lignans, neolignans and related compounds",Dibenzylbutane lignans,unclassified,4,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Ergostane steroids,4,Yes
+Organic compounds,Organoheterocyclic compounds,Pyrroles,Pyrrole carboxylic acids and derivatives,4,No
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Tetracarboxylic acids and derivatives,4,No
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Hydroxysteroids,4,No
+Organic compounds,Lipids and lipid-like molecules,Endocannabinoids,unclassified,4,No
+Organic compounds,Organoheterocyclic compounds,Benzimidazoles,unclassified,4,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzophenones,4,Yes
+Organic compounds,Benzenoids,Phenols,1-hydroxy-2-unsubstituted benzenoids,4,No
+Organic compounds,Organoheterocyclic compounds,Azepanes,unclassified,4,Yes
+Organic compounds,Organoheterocyclic compounds,Azoles,Pyrazoles,4,No
+Organic compounds,Organic acids and derivatives,Organic phosphonic acids and derivatives,Phosphonic acid diesters,4,No
+Organic compounds,Organoheterocyclic compounds,Isoindoles and derivatives,Isoindoles,4,No
+Organic compounds,Phenylpropanoids and polyketides,Stilbenes,unclassified,4,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Toluenes,4,Yes
+Organic compounds,Benzenoids,Naphthalenes,unclassified,4,No
+Organic compounds,Organoheterocyclic compounds,Benzopyrans,1-benzopyrans,4,No
+Organic compounds,Organoheterocyclic compounds,Piperidines,Piperidinecarboxylic acids and derivatives,4,No
+Organic compounds,Benzenoids,Anthracenes,unclassified,4,No
+Organic compounds,Organoheterocyclic compounds,Isobenzofurans,unclassified,4,No
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Vitamin D and derivatives,3,No
+Organic compounds,Organoheterocyclic compounds,Indolizidines,unclassified,3,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,3,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,3,No
+Organic compounds,Benzenoids,Indenes and isoindenes,unclassified,3,No
+Organic compounds,Benzenoids,Phenols,Methoxyphenols,3,No
+Organic compounds,Benzenoids,Phenol ethers,Anisoles,3,No
+Organic compounds,Hydrocarbons,Unsaturated hydrocarbons,Branched unsaturated hydrocarbons,3,Yes
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid lactones,3,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Bipyridines and oligopyridines,3,No
+Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Glycerol ethers,3,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Methoxybenzenes,3,No
+Organic compounds,Organoheterocyclic compounds,Quinolines and derivatives,Phenylquinolines,3,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenylcarbamic acid esters,3,No
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty aldehydes,3,Yes
+Organic compounds,Organic acids and derivatives,Organic carbonic acids and derivatives,Ureas,3,No
+Organic compounds,Organoheterocyclic compounds,Triazines,Triazinones,3,No
+Organic compounds,Organoheterocyclic compounds,Naphthopyrans,unclassified,3,No
+Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,3,No
+Organic compounds,Organoheterocyclic compounds,Pyrans,Pyranones and derivatives,3,No
+Organic compounds,Phenylpropanoids and polyketides,Isocoumarins and derivatives,unclassified,3,No
+Organic compounds,Hydrocarbon derivatives,Quinodimethanes,P-quinodimethanes,3,No
+Organic compounds,Lipids and lipid-like molecules,Sphingolipids,Ceramides,3,No
+Organic compounds,Benzenoids,Phenol esters,unclassified,3,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Phenylpyridines,3,No
+Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Triradylcglycerols,3,No
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Sesterterpenoids,2,No
+Organic compounds,Organic acids and derivatives,Keto acids and derivatives,Gamma-keto acids and derivatives,2,No
+Organic compounds,Organosulfur compounds,Sulfonyls,Sulfones,2,No
+Organic compounds,Benzenoids,Phenols,1-hydroxy-4-unsubstituted benzenoids,2,Yes
+Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,unclassified,2,No
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Acrylic acids and derivatives,2,No
+Organic compounds,Carbides,Acetylides,unclassified,2,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenylacetamides,2,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Methylpyridines,2,No
+Organic compounds,Organic acids and derivatives,Organic phosphoric acids and derivatives,Organic phosphoramides,2,No
+Organic compounds,Organoheterocyclic compounds,Pyrroles,Substituted pyrroles,2,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Sulfonylureas,2,No
+Organic compounds,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,2,No
+Organic compounds,Organoheterocyclic compounds,Azolines,Thiadiazolines,2,No
+Organic compounds,Organoheterocyclic compounds,Azoles,Thiazoles,2,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Hydropyridines,2,Yes
+Organic compounds,Lipids and lipid-like molecules,Saccharolipids,unclassified,2,No
+Organic compounds,Phenylpropanoids and polyketides,Macrolactams,unclassified,2,No
+Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,unclassified,2,No
+Organic compounds,Phenylpropanoids and polyketides,Diarylheptanoids,Linear diarylheptanoids,2,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzenesulfonic acids and derivatives,2,No
+Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Carbazoles,2,No
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Tetraterpenoids,2,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,unclassified,2,No
+Organic compounds,Organoheterocyclic compounds,Imidazopyridines,"Imidazo-[4,5-c]pyridines",2,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides,unclassified,2,No
+Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,unclassified,2,No
+Organic compounds,Hydrocarbons,Unsaturated hydrocarbons,Olefins,2,No
+Organic compounds,Organic acids and derivatives,Peptidomimetics,Depsipeptides,2,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,Pyrimidine 2'-deoxyribonucleosides,2,No
+Organic compounds,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,unclassified,2,No
+Organic compounds,Phenylpropanoids and polyketides,"Linear 1,3-diarylpropanoids",unclassified,2,No
+Organic compounds,Phenylpropanoids and polyketides,Depsides and depsidones,unclassified,2,No
+Organic compounds,Allenes,Cyclic allenes,unclassified,2,No
+Organic compounds,Organoheterocyclic compounds,Oxepanes,unclassified,2,No
+Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Indolecarboxylic acids and derivatives,2,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzonitriles,2,No
+Organic compounds,Organoheterocyclic compounds,Pyrazolopyrimidines,"Pyrazolo[3,4-d]pyrimidines",2,No
+Organic compounds,Phenylpropanoids and polyketides,Coumarins and derivatives,Furanocoumarins,2,No
+Organic compounds,Organoheterocyclic compounds,Pteridines and derivatives,unclassified,2,No
+Organic compounds,Phenylpropanoids and polyketides,Kavalactones,unclassified,2,No
+Organic compounds,Organoheterocyclic compounds,Azaphilones,unclassified,2,No
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Alpha-imino acid and derivatives,2,No
+Organic compounds,Organoheterocyclic compounds,Quinolines and derivatives,Benzoquinolines,2,No
+Organic compounds,Organoheterocyclic compounds,"Pyrazolo[3,4-b]pyrazines",unclassified,1,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzylamines,1,No
+Organic compounds,Organoheterocyclic compounds,Triazines,"1,3,5-triazines",1,No
+Organic compounds,Benzenoids,Phenols,Benzenediols,1,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Aminopyridines and derivatives,1,No
+Organic compounds,Organoheterocyclic compounds,Epoxides,unclassified,1,No
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,Enediols,1,No
+Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Terpene glycosides,1,No
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohol esters,1,No
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,unclassified,1,No
+Organic compounds,Organic acids and derivatives,Organic sulfuric acids and derivatives,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Dioxanes,"1,4-dioxanes",1,No
+Organic compounds,Organoheterocyclic compounds,Heteroaromatic compounds,unclassified,1,No
+Organic compounds,Benzenoids,Triphenyl compounds,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,"Imidazo[1,2-a]pyrimidines",unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Pyrazolylpyridines,1,No
+Organic compounds,Organosulfur compounds,Sulfoxides,unclassified,1,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",Triazole ribonucleosides and ribonucleotides,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Pteridines and derivatives,Pterins and derivatives,1,No
+Organic compounds,Organoheterocyclic compounds,Lactones,unclassified,1,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",Nucleoside and nucleotide analogues,Cyclopentyl nucleosides,1,No
+Organic compounds,Organoheterocyclic compounds,Isoindoles and derivatives,unclassified,1,No
+Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1,No
+Organic compounds,Organoheterocyclic compounds,Isoquinolines and derivatives,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Benzopyrans,unclassified,1,No
+Organic compounds,Phenylpropanoids and polyketides,Flavonoids,O-methylated flavonoids,1,No
+Organic compounds,Phenylpropanoids and polyketides,Isoflavonoids,Furanoisoflavonoids,1,No
+Organic compounds,Organosulfur compounds,Thioethers,Dialkylthioethers,1,No
+Organic compounds,Organoheterocyclic compounds,Benzothiazoles,unclassified,1,No
+Organic compounds,Organic acids and derivatives,Vinylogous acids,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Quinolines and derivatives,Imidazoquinolines,1,No
+Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1,No
+Organic compounds,Organoheterocyclic compounds,Azaspirodecane derivatives,unclassified,1,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenylpropanes,1,No
+Organic compounds,Organoheterocyclic compounds,Quinolines and derivatives,Aminoquinolines and derivatives,1,No
+Organic compounds,Organic oxygen compounds,Organooxygen compounds,Ortho esters,1,No
+Organic compounds,Lipids and lipid-like molecules,Glycerophosphonolipids,unclassified,1,No
+Organic compounds,Organic acids and derivatives,Orthocarboxylic acid derivatives,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Pyridoindoles,1,No
+Organic compounds,Benzenoids,Fluorenes,unclassified,1,No
+Organic compounds,Phenylpropanoids and polyketides,Cinnamaldehydes,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Benzofurans,Dibenzofurans,1,No
+Organic compounds,Organoheterocyclic compounds,Tetrahydroisoquinolines,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Quinuclidines,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,3-pyridinecarbonitriles,1,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Isocyanates,1,No
+Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,1,Yes
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Cyclohexylamines,1,No
+Organic compounds,Hydrocarbon derivatives,Tropones,Tropolones,1,No
+Organic compounds,Organoheterocyclic compounds,Piperidines,N-acylpiperidines,1,No
+Organic compounds,Phenylpropanoids and polyketides,Flavonoids,Flavones,1,No
+Organic compounds,Organoheterocyclic compounds,Azoles,Thiadiazoles,1,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Oximes,1,No
+Organic compounds,Organoheterocyclic compounds,Azobenzenes,unclassified,1,No
+Organic compounds,Lipids and lipid-like molecules,Glycerolipids,unclassified,1,No
+Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,unclassified,1,No
+Organic compounds,Organic acids and derivatives,Organic thiophosphoric acids and derivatives,Thiophosphoric acid esters,1,No
+Organic compounds,Hydrocarbons,Unsaturated hydrocarbons,Acetylenes,1,No
+Organic compounds,Alkaloids and derivatives,Tropane alkaloids,unclassified,1,No
+Organic compounds,Organic acids and derivatives,Organic carbonic acids and derivatives,unclassified,1,No
+Organic compounds,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,1,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Imines,1,No
+Organic compounds,Benzenoids,Dibenzocycloheptenes,unclassified,1,No
+Organic compounds,Benzenoids,Naphthalenes,Naphthoquinones,1,No
+Organic compounds,Phenylpropanoids and polyketides,Phenylpropanoic acids,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Quinolines and derivatives,Nitroquinolines and derivatives,1,No
+Organic compounds,Organoheterocyclic compounds,Pyrrolines,Pyrroline carboxylic acids and derivatives,1,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Diphenylethers,1,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzoyl derivatives,1,No
+Organic compounds,Alkaloids and derivatives,Harmala alkaloids,unclassified,1,No
+Organic compounds,Benzenoids,Benzene and substituted derivatives,Phenylazides,1,No
+Organic compounds,Organoheterocyclic compounds,Dioxepanes,"1,3-dioxepanes",1,No
+Organic compounds,"Nucleosides, nucleotides, and analogues",Nucleoside and nucleotide analogues,unclassified,1,No
+Organic compounds,Benzenoids,Phenols,Benzenetriols and derivatives,1,No
+Organic compounds,Organic acids and derivatives,Organic sulfuric acids and derivatives,Sulfuric acid esters,1,No
+Organic compounds,Organoheterocyclic compounds,Pyrans,unclassified,1,No
+Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Oxime carbamates,1,No
+Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,1,No
+Organic compounds,Organoheterocyclic compounds,Triazolopyrimidines,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Imidolactams,unclassified,1,No
+Organic compounds,Phenylpropanoids and polyketides,Cinnamyl alcohols,unclassified,1,No
+Organic compounds,Organoheterocyclic compounds,Thiolanes,unclassified,1,No
+Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl thioesters,1,No
+Organic compounds,Benzenoids,Phenols,4-alkoxyphenols,1,No
+Organic compounds,Organoheterocyclic compounds,Diazines,Pyridazines and derivatives,1,No
+Organic compounds,Alkaloids and derivatives,Cytochalasans,Aspochalasins,1,No

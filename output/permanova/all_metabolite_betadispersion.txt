@@ -1,0 +1,27 @@
+
+	Homogeneity of multivariate dispersions
+
+Call: betadisper(d = chem_dist$bray, group = chem_groups)
+
+No. of Positive Eigenvalues: 94
+No. of Negative Eigenvalues: 8
+
+Average distance to median:
+   CCA  Coral   Limu 
+0.4991 0.4216 0.4466 
+
+Eigenvalues for PCoA axes:
+(Showing 8 of 102 eigenvalues)
+ PCoA1  PCoA2  PCoA3  PCoA4  PCoA5  PCoA6  PCoA7  PCoA8 
+3.3529 2.8781 2.1737 1.5509 1.2605 0.9523 0.8928 0.7298 
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = distances ~ group, data = df)
+
+$group
+                  diff         lwr          upr     p adj
+Coral-CCA  -0.07759503 -0.11541216 -0.039777909 0.0000119
+Limu-CCA   -0.05250497 -0.09646509 -0.008544845 0.0149123
+Limu-Coral  0.02509007 -0.01782820  0.068008333 0.3495447
+

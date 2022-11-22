@@ -1,0 +1,18 @@
+Analysis of Variance Table
+
+Response: chao
+                      Df   Sum Sq Mean Sq F value   Pr(>F)   
+sample_type            2  2885846 1442923  6.0840 0.003487 **
+site_name              4   653078  163270  0.6884 0.602106   
+sample_type:site_name  7  1400796  200114  0.8438 0.554590   
+Residuals             79 18736061  237165                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Analysis of Variance Table
+
+Response: shannoneven
+                      Df  Sum Sq  Mean Sq F value Pr(>F)
+sample_type            2 0.07942 0.039711  1.2377 0.2956
+site_name              4 0.06361 0.015902  0.4957 0.7389
+sample_type:site_name  7 0.32099 0.045855  1.4293 0.2055
+Residuals             79 2.53458 0.032083               
