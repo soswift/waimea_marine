@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Sean
+    given-names: Swift
+    orcid: https://orcid.org/0000-0002-1170-4711
+  - family-names: Helena
+    given-names: Mannochio-Russo
+    orcid: https://orcid.org/0000-0002-4961-2353
+title: soswift/waimea_marine: Comm Bio Manuscript Submission
+version: v1.0.0
+date-released: 2022-12-01
