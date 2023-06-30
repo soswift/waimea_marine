@@ -606,10 +606,10 @@ ggsave("output/NMDS/no_cca_procrustes.pdf", plot = g, width = 15)
 # 11. All microbe and metabolite heatmaps ------------------------------------------------------
 # Make large heatmaps of all microbes and metabolites by sample as an exploratory analysis.
 
-plot_heatmap(phyloseq_obj = micro_phy, description = "microbe")
-
-plot_heatmap(phyloseq_obj = chem_phy, description = "metabolite",
-             dist_method = "canberra")
+# plot_heatmap(phyloseq_obj = micro_phy, description = "microbe")
+# 
+# plot_heatmap(phyloseq_obj = chem_phy, description = "metabolite",
+#              dist_method = "canberra")
 
 # 12. Metabolite and Microbe Eulerr diagrams -----------------------------------------------
 # For corals and algae, generate euler plots to show overlap in composition by sample type.
